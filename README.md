@@ -1,5 +1,20 @@
 # Vehicle Theft Data Analysis Using SQL & Excel
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Methodology](#methodology)
+  - [Data Extraction & Cleaning](#data-extraction--cleaning)
+  - [Temporal Analysis](#temporal-analysis)
+  - [Vehicle Characteristics Analysis](#vehicle-characteristics-analysis)
+  - [Geospatial Analysis](#geospatial-analysis)
+- [Key Findings & Insights](#key-findings--insights)
+  - [Theft Trends Over Time](#1-theft-trends-over-time)
+  - [High-Risk Vehicle Types and Colors](#2-high-risk-vehicle-types-and-colors)
+  - [Geographic Distribution of Vehicle Thefts](#3-geographic-distribution-of-vehicle-thefts)
+  - [Population Density vs. Vehicle Theft](#4-population-density-vs-vehicle-theft)
+- [Conclusion](#conclusion)
+
 ## Project Overview
 
 This project analyzes vehicle theft data to uncover critical insights into patterns regarding the **timing**, **locations**, and **vehicle characteristics** associated with theft incidents. By examining temporal, vehicular, and geographic factors, the analysis identifies **high-risk scenarios** and proposes **actionable preventive measures**.
